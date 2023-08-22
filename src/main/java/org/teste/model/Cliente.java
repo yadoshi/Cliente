@@ -1,5 +1,5 @@
 package org.teste.model;
 
-public class Customer {
+public class Cliente {
 
 }
